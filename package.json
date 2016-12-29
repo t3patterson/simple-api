@@ -1,0 +1,16 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "simple api built in node/express that can be deployed to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "t3patterson",
+  "license": "ISC",
+  "dependencies": {
+      "cors" : "2.8.1",
+      "express" : "4.13.3"
+   }
+}
