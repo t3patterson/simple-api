@@ -1,0 +1,6 @@
+{
+	"name" : "Simple Node API",
+	"description" : "A simple API built in Node & Express",
+	"repository" : "https://github.com/t3patterson/simple-api",
+	"keywords:" : ["node", "express", "static", "api"]
+}
